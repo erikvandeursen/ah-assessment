@@ -22,4 +22,4 @@ Includes the following environment variables for switchting between envs:
  - Both files make use of a pom.json file (page object model) separating script logic and page objects for reusability between scripts and easier maintenance.
    
 ## Linting
-An .eslintrc file is included for JS linting and can be extended witn rules if needed
+An .eslintrc file is included for JS linting and can be extended with rules if needed
