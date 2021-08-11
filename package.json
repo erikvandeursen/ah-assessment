@@ -17,9 +17,9 @@
     "cli:local": "cypress open --env configEnv=local,CYPRESS_RETEST=3",
     "cli:test": "cypress open --env configEnv=test,CYPRESS_RETEST=3",
     "cli:acceptance": "cypress open --env configEnv=acceptance,CYPRESS_RETEST=3",
-    "dashboard:local": "cypress open --env configEnv=local,CYPRESS_RETEST=3 --record --key abc123",
-    "dashboard:test": "cypress open --env configEnv=test,CYPRESS_RETEST=3 --record --key abc123",
-    "dashboard:acceptance": "cypress open --env configEnv=acceptance,CYPRESS_RETEST=3 --record --key abc123"
+    "dashboard:local": "cypress run --env configEnv=local,CYPRESS_RETEST=3 --record --key abc123",
+    "dashboard:test": "cypress run --env configEnv=test,CYPRESS_RETEST=3 --record --key abc123",
+    "dashboard:acceptance": "cypress run --env configEnv=acceptance,CYPRESS_RETEST=3 --record --key abc123"
   },
   "author": "Erik van Deursen",
   "license": "ISC"
