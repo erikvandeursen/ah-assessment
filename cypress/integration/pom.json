@@ -1,0 +1,9 @@
+{
+  "fields": {
+    "idInput": "[data-cy]",
+    "idSubmit": "[data-cy]",
+    "getAmountStamps": "[data-cy]",
+    "getAmountCards": "[data-cy]",
+    "errorMsg": "[data-cy]"
+  }
+}

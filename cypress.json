@@ -1,0 +1,6 @@
+{
+  "projectId": "",
+  "ignoreTestFiles": "*.json",
+  "reporter": "junit",
+  "defaultCommandTimeout": 8000
+}

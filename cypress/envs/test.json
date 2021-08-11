@@ -1,0 +1,6 @@
+{
+  "baseUrl": "https://test.environment.com",
+  "env": {
+      "name": "test"
+  }
+}

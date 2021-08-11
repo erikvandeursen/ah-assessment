@@ -1,0 +1,6 @@
+{
+  "baseUrl": "https://local.environment.com",
+  "env": {
+      "name": "local"
+  }
+}

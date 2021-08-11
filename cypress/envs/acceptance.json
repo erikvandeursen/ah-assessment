@@ -1,0 +1,6 @@
+{
+  "baseUrl": "https://acceptance.environment.com",
+  "env": {
+      "name": "acceptance"
+  }
+}
